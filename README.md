@@ -1,13 +1,8 @@
 # The VBA of Wall Street
 
-## Background
+### Stock market analyst
 
-Created a VBA script that will loop through all the stocks for one year.
-## Features
-
-
-## Screenshots
-* Created a script that will loop through all the stocks for one year for each run and take the following information.
+* Create a script that will loop through all the stocks for one year and output the following information.
 
   * The ticker symbol.
 
@@ -17,8 +12,7 @@ Created a VBA script that will loop through all the stocks for one year.
 
   * The total stock volume of the stock.
 
-* Conditional formatting that highlights positive change in green and negative change in red.
+* You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
-* Returns the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
-
+* The result should look as follows.
 
