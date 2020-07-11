@@ -1,6 +1,5 @@
-# VBA-challenge
 The VBA of Wall Street
-
+Features
 stock Market
 
 Created a script that will loop through all the stocks for one year for each run and take the following information.
