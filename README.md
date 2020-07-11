@@ -1,6 +1,6 @@
 # The VBA of Wall Street
 
-### Stock market analyst
+### Stock market analysis
 
 * Create a script that will loop through all the stocks for one year and output the following information.
 
