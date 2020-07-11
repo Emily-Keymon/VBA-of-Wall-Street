@@ -1,15 +1,27 @@
-VBA of Wall Street
+# The VBA of Wall Street
 
-Stock market analysis
+## Background
 
-Create a script that will loop through all the stocks for one year and output the following information:
+Created a VBA script that will loop through all the stocks for one year.
+## Features
 
-The ticker symbol
+![stock Market](Images/stockmarket.jpg)
 
-Yearly change from opening price at the beginning of a given year to the closing price at the end of that year
+## Screenshots
+* Created a script that will loop through all the stocks for one year for each run and take the following information.
 
-The percent change from opening price at the beginning of a given year to the closing price at the end of that year
+  * The ticker symbol.
 
-The total stock volume of the stock
+  * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
 
+  * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
 
+  * The total stock volume of the stock.
+
+* Conditional formatting that highlights positive change in green and negative change in red.
+
+![moderate_solution](Images/moderate_solution.png)
+
+* Returns the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
+
+![hard_solution](Images/hard_solution.png)
