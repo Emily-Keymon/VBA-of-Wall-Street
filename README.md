@@ -5,7 +5,6 @@
 Created a VBA script that will loop through all the stocks for one year.
 ## Features
 
-![stock Market](Images/stockmarket.jpg)
 
 ## Screenshots
 * Created a script that will loop through all the stocks for one year for each run and take the following information.
@@ -20,8 +19,6 @@ Created a VBA script that will loop through all the stocks for one year.
 
 * Conditional formatting that highlights positive change in green and negative change in red.
 
-![moderate_solution](Images/moderate_solution.png)
-
 * Returns the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
-![hard_solution](Images/hard_solution.png)
+
